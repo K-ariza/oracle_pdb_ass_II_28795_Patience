@@ -101,7 +101,7 @@ Oracle Enterprise Manager was accessed successfully to monitor and manage the Or
 
 A screenshot of the OEM dashboard is included as proof.
 
-![Task 4](../screenshot/OEM.jpeg)
+![Task 4](<https://github.com/K-ariza/oracle_pdb_ass_II_28795_Patience/blob/main/Screenshot/OEM.jpeg>)
 
 ## <span style="color:#1F77B4">Challenges Faced and Solutions</span>
 
@@ -139,6 +139,7 @@ Date: February 2026
 ---
 
 *End of Report*
+
 
 
 
