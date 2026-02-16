@@ -57,7 +57,7 @@ WHERE username = 'patience_plsqlauca_28795';
 ```
 Screenshot evidence shows:
 
-![Task 1](<../screenshot/Create PDB.png>)
+![Task 1](<https://github.com/K-ariza/oracle_pdb_ass_II_28795_Patience/blob/main/Screenshot/Create%20PDB.png>)
 
 ### <span style="color:#1F77B4">Task 2: Temporary PDB Creation and Deletion</span>
 
@@ -139,4 +139,5 @@ Date: February 2026
 ---
 
 *End of Report*
+
 
