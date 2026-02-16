@@ -86,7 +86,7 @@ SHOW PDBS;
 Verification using SHOW PDBS
 
 
- ![Task 2](<../screenshot/Create T PDB.png>)
+ ![Task 2](<https://github.com/K-ariza/oracle_pdb_ass_II_28795_Patience/blob/main/Screenshot/Create%20T%20PDB.png>)
 
 
 Successful deletion and confirmation
@@ -139,5 +139,6 @@ Date: February 2026
 ---
 
 *End of Report*
+
 
 
