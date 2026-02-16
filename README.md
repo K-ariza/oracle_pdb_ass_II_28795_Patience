@@ -92,7 +92,7 @@ Verification using SHOW PDBS
 Successful deletion and confirmation
 
 
- ![Task 3 ](<../screenshot/Drop T PDB.png>)
+ ![Task 3 ](<https://github.com/K-ariza/oracle_pdb_ass_II_28795_Patience/blob/main/Screenshot/Drop%20T%20PDB.png>)
 
 
 <span style="color:#1F77B4">Task 3: Oracle Enterprise Manager (OEM)</span>
@@ -139,6 +139,7 @@ Date: February 2026
 ---
 
 *End of Report*
+
 
 
 
