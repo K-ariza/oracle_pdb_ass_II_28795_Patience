@@ -95,7 +95,7 @@ Successful deletion and confirmation
  ![Task 3 ](<https://github.com/K-ariza/oracle_pdb_ass_II_28795_Patience/blob/main/Screenshot/Drop%20T%20PDB.png>)
 
 
-<span style="color:#1F77B4">Task 3: Oracle Enterprise Manager (OEM)</span>
+### <span style="color:#1F77B4">Task 7: Oracle Enterprise Manager (OEM)</span>
 
 Oracle Enterprise Manager was accessed successfully to monitor and manage the Oracle database environment. The dashboard displayed the created PDB and confirmed the active database configuration.
 
@@ -123,8 +123,6 @@ Outcome: Successfully created, opened, and managed all required PDBs.
 
 I certify that this assignment is my own original work. All SQL commands were executed directly in my Oracle database environment, and all screenshots included in this repository are authentic evidence of my practical work. I followed all instructions and naming conventions as required.
 
-Signature: KARIZA PATIENCE
-Date: February 2026
 
 ## <span style="color:#1F77B4">Final Checklist (Apply Before Submission)</span>
 
@@ -139,6 +137,7 @@ Date: February 2026
 ---
 
 *End of Report*
+
 
 
 
