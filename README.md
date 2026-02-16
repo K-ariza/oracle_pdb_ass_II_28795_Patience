@@ -1,1 +1,0 @@
-# -oracle_pdb_ass_II_28795_Patience
