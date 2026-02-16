@@ -57,7 +57,7 @@ WHERE username = 'patience_plsqlauca_28795';
 ```
 Screenshot evidence shows:
 
-![Task 1](<../Pictures/screenshot/Create PDB.png>)
+![Task 1](<../screenshot/Create PDB.png>)
 
 ### <span style="color:#1F77B4">Task 2: Temporary PDB Creation and Deletion</span>
 
@@ -139,3 +139,4 @@ Date: February 2026
 ---
 
 *End of Report*
+
